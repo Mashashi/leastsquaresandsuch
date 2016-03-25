@@ -1,0 +1,3 @@
+http://en.wikipedia.org/wiki/Tikhonov_regularization
+http://www.mathworks.com/matlabcentral/fileexchange/52-regtools/content/regu/tikhonov.m
+http://en.wikipedia.org/wiki/Regularization_(mathematics)
